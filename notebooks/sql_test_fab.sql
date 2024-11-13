@@ -1,25 +1,36 @@
 show processlist;
 CREATE DATABASE IF NOT EXISTS w4grplab;
 
+DROP DATABASE IF EXISTS w4grplab;
+
 USE w4grplab;
 
-CREATE TABLE factors (
-    id BIGINT AUTO_INCREMENT PRIMARY KEY,   -- A unique identifier for each record
-    country VARCHAR(255),                   -- Country name, assuming it's a string
-    year INT,                               -- Year of the data
-    happiness DECIMAL(5, 2),                -- Happiness score, with 2 decimal points
-    GDP DECIMAL(15, 2),                     -- GDP value, with 2 decimal points
-    social_support DECIMAL(5, 2),           -- Social support value, with 2 decimal points
-    healthy DECIMAL(5, 2),                  -- Healthy life expectancy, with 2 decimal points
-    freedom DECIMAL(5, 2),                  -- Freedom to make life choices, with 2 decimal points
-    generosity DECIMAL(5, 2),               -- Generosity score, with 2 decimal points
-    corruption DECIMAL(5, 2)                -- Corruption score, with 2 decimal points
+CREATE TABLE `countries`(
+    `country_id` BIGINT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    `name` VARCHAR(255) NOT NULL
 );
+CREATE TABLE `scores`(
+    `id` BIGINT UNSIGNED NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    `descriptor_id` BIGINT NOT NULL,
+    `country_id` BIGINT NOT NULL,
+    `score` DECIMAL(8, 2) NOT NULL,
+    `year` BIGINT NOT NULL
+);
+CREATE TABLE `descriptors`(
+    `descriptor_id` BIGINT NOT NULL AUTO_INCREMENT PRIMARY KEY,
+    `name` VARCHAR(255) NOT NULL
+);
+ALTER TABLE
+    `scores` ADD CONSTRAINT `scores_country_id_foreign` FOREIGN KEY(`country_id`) REFERENCES `countries`(`country_id`);
+ALTER TABLE
+    `scores` ADD CONSTRAINT `scores_descriptor_id_foreign` FOREIGN KEY(`descriptor_id`) REFERENCES `descriptors`(`descriptor_id`);
 
 
-LOAD DATA LOCAL INFILE 'combined_happiness_data.csv'
+/*LOAD DATA LOCAL INFILE 'combined_happiness_data.csv'
+
 INTO TABLE factors
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
 LINES TERMINATED BY '\\n'
-IGNORE 1 ROWS;
+IGNORE 1 ROWS;*/
+
