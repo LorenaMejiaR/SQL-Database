@@ -23,7 +23,7 @@ This repository outlines...Specifically, the process consists of:
 - **Python Libraries**:
     - `pandas` for data manipulation.
     - `numpy` for numerical operations.
-    - `matplotlib`, `plotly` and `seaborn` for data visualization.
+    - `matplotlib` and `seaborn` for data visualization.
     - `scipy` for statistical analysis.
     - `pycountry` for working with country data, including country codes, names, and subdivisions.
 - **SQL**: 
@@ -34,7 +34,7 @@ This project leverages 5 datasets from the Cantril Ladder to gather relevant dat
 
 1. **World Happiness Report 2018** 
 2. **World Happiness Report 2019** 
-3. **World Happiness Report 2020** 
+3.**World Happiness Report 2020** 
 4. **World Happiness Report 2021** 
 5. **World Happiness Report 2022** 
 
