@@ -1,5 +1,6 @@
 show processlist;
 CREATE DATABASE IF NOT EXISTS w4grplab;
+
 DROP DATABASE IF EXISTS w4grplab;
 
 USE w4grplab;
@@ -26,8 +27,10 @@ ALTER TABLE
 
 
 /*LOAD DATA LOCAL INFILE 'combined_happiness_data.csv'
+
 INTO TABLE factors
 FIELDS TERMINATED BY ','
 ENCLOSED BY '"'
 LINES TERMINATED BY '\\n'
 IGNORE 1 ROWS;*/
+
