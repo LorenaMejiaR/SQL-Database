@@ -1,3 +1,5 @@
+-- CREATE DATA BASE AND TABLES
+
 CREATE DATABASE IF NOT EXISTS happiness_sql;
 USE happiness_sql;
 
