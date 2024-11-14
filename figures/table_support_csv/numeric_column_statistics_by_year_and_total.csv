@@ -1,0 +1,421 @@
+Year,Column,Statistic,Value
+2018,year,Mean,2018.0
+2018,year,Median,2018.0
+2018,year,Maximum,2018.0
+2018,year,Minimum,2018.0
+2018,year,1st Quartile (25%),2018.0
+2018,year,2nd Quartile (50%),2018.0
+2018,year,3rd Quartile (75%),2018.0
+2018,rank,Mean,78.87741935483871
+2018,rank,Median,79.0
+2018,rank,Maximum,156.0
+2018,rank,Minimum,1.0
+2018,rank,1st Quartile (25%),40.5
+2018,rank,2nd Quartile (50%),79.0
+2018,rank,3rd Quartile (75%),117.5
+2018,happiness,Mean,5.366896774193548
+2018,happiness,Median,5.358
+2018,happiness,Maximum,7.632
+2018,happiness,Minimum,2.905
+2018,happiness,1st Quartile (25%),4.4515
+2018,happiness,2nd Quartile (50%),5.358
+2018,happiness,3rd Quartile (75%),6.154
+2018,gdp,Mean,0.8836774193548389
+2018,gdp,Median,0.94
+2018,gdp,Maximum,1.649
+2018,gdp,Minimum,0.0
+2018,gdp,1st Quartile (25%),0.6125
+2018,gdp,2nd Quartile (50%),0.94
+2018,gdp,3rd Quartile (75%),1.1925
+2018,social_support,Mean,1.216058064516129
+2018,social_support,Median,1.258
+2018,social_support,Maximum,1.644
+2018,social_support,Minimum,0.0
+2018,social_support,1st Quartile (25%),1.0755
+2018,social_support,2nd Quartile (50%),1.258
+2018,social_support,3rd Quartile (75%),1.464
+2018,healthy,Mean,0.5968774193548386
+2018,healthy,Median,0.643
+2018,healthy,Maximum,1.03
+2018,healthy,Minimum,0.0
+2018,healthy,1st Quartile (25%),0.4205
+2018,healthy,2nd Quartile (50%),0.643
+2018,healthy,3rd Quartile (75%),0.7785
+2018,freedom,Mean,0.45560645161290325
+2018,freedom,Median,0.493
+2018,freedom,Maximum,0.724
+2018,freedom,Minimum,0.0
+2018,freedom,1st Quartile (25%),0.3575
+2018,freedom,2nd Quartile (50%),0.493
+2018,freedom,3rd Quartile (75%),0.579
+2018,generosity,Mean,0.1809741935483871
+2018,generosity,Median,0.173
+2018,generosity,Maximum,0.598
+2018,generosity,Minimum,0.0
+2018,generosity,1st Quartile (25%),0.109
+2018,generosity,2nd Quartile (50%),0.173
+2018,generosity,3rd Quartile (75%),0.24
+2018,corruption,Mean,0.112
+2018,corruption,Median,0.082
+2018,corruption,Maximum,0.457
+2018,corruption,Minimum,0.0
+2018,corruption,1st Quartile (25%),0.051
+2018,corruption,2nd Quartile (50%),0.082
+2018,corruption,3rd Quartile (75%),0.137
+2018,dystopia,Mean,1.921703225806452
+2018,dystopia,Median,1.906
+2018,dystopia,Maximum,2.9610000000000003
+2018,dystopia,Minimum,0.2910000000000003
+2018,dystopia,1st Quartile (25%),1.6315
+2018,dystopia,2nd Quartile (50%),1.906
+2018,dystopia,3rd Quartile (75%),2.2790000000000004
+2019,year,Mean,2019.0
+2019,year,Median,2019.0
+2019,year,Maximum,2019.0
+2019,year,Minimum,2019.0
+2019,year,1st Quartile (25%),2019.0
+2019,year,2nd Quartile (50%),2019.0
+2019,year,3rd Quartile (75%),2019.0
+2019,rank,Mean,78.5
+2019,rank,Median,78.5
+2019,rank,Maximum,156.0
+2019,rank,Minimum,1.0
+2019,rank,1st Quartile (25%),39.75
+2019,rank,2nd Quartile (50%),78.5
+2019,rank,3rd Quartile (75%),117.25
+2019,happiness,Mean,5.407096153846155
+2019,happiness,Median,5.3795
+2019,happiness,Maximum,7.769
+2019,happiness,Minimum,2.853
+2019,happiness,1st Quartile (25%),4.5445
+2019,happiness,2nd Quartile (50%),5.3795
+2019,happiness,3rd Quartile (75%),6.1845
+2019,gdp,Mean,0.905147435897436
+2019,gdp,Median,0.96
+2019,gdp,Maximum,1.684
+2019,gdp,Minimum,0.0
+2019,gdp,1st Quartile (25%),0.60275
+2019,gdp,2nd Quartile (50%),0.96
+2019,gdp,3rd Quartile (75%),1.2325000000000002
+2019,social_support,Mean,1.2088141025641026
+2019,social_support,Median,1.2715
+2019,social_support,Maximum,1.624
+2019,social_support,Minimum,0.0
+2019,social_support,1st Quartile (25%),1.05575
+2019,social_support,2nd Quartile (50%),1.2715
+2019,social_support,3rd Quartile (75%),1.4525
+2019,healthy,Mean,0.7252435897435898
+2019,healthy,Median,0.789
+2019,healthy,Maximum,1.141
+2019,healthy,Minimum,0.0
+2019,healthy,1st Quartile (25%),0.5477500000000001
+2019,healthy,2nd Quartile (50%),0.789
+2019,healthy,3rd Quartile (75%),0.88175
+2019,freedom,Mean,0.39257051282051286
+2019,freedom,Median,0.417
+2019,freedom,Maximum,0.631
+2019,freedom,Minimum,0.0
+2019,freedom,1st Quartile (25%),0.308
+2019,freedom,2nd Quartile (50%),0.417
+2019,freedom,3rd Quartile (75%),0.50725
+2019,generosity,Mean,0.18484615384615383
+2019,generosity,Median,0.1775
+2019,generosity,Maximum,0.566
+2019,generosity,Minimum,0.0
+2019,generosity,1st Quartile (25%),0.10875
+2019,generosity,2nd Quartile (50%),0.1775
+2019,generosity,3rd Quartile (75%),0.24825
+2019,corruption,Mean,0.11060256410256411
+2019,corruption,Median,0.08549999999999999
+2019,corruption,Maximum,0.453
+2019,corruption,Minimum,0.0
+2019,corruption,1st Quartile (25%),0.047
+2019,corruption,2nd Quartile (50%),0.08549999999999999
+2019,corruption,3rd Quartile (75%),0.14125
+2019,dystopia,Mean,1.879871794871795
+2019,dystopia,Median,1.9160000000000004
+2019,dystopia,Maximum,3.05
+2019,dystopia,Minimum,0.1839999999999997
+2019,dystopia,1st Quartile (25%),1.513
+2019,dystopia,2nd Quartile (50%),1.9160000000000004
+2019,dystopia,3rd Quartile (75%),2.2675
+2020,year,Mean,2020.0
+2020,year,Median,2020.0
+2020,year,Maximum,2020.0
+2020,year,Minimum,2020.0
+2020,year,1st Quartile (25%),2020.0
+2020,year,2nd Quartile (50%),2020.0
+2020,year,3rd Quartile (75%),2020.0
+2020,rank,Mean,77.0
+2020,rank,Median,77.0
+2020,rank,Maximum,153.0
+2020,rank,Minimum,1.0
+2020,rank,1st Quartile (25%),39.0
+2020,rank,2nd Quartile (50%),77.0
+2020,rank,3rd Quartile (75%),115.0
+2020,happiness,Mean,5.473239862849674
+2020,happiness,Median,5.514999866
+2020,happiness,Maximum,7.808700085
+2020,happiness,Minimum,2.566900015
+2020,happiness,1st Quartile (25%),4.724100113
+2020,happiness,2nd Quartile (50%),5.514999866
+2020,happiness,3rd Quartile (75%),6.228499889
+2020,gdp,Mean,0.8687711375098038
+2020,gdp,Median,0.91854918
+2020,gdp,Maximum,1.536676049
+2020,gdp,Minimum,0.0
+2020,gdp,1st Quartile (25%),0.575862467
+2020,gdp,2nd Quartile (50%),0.91854918
+2020,gdp,3rd Quartile (75%),1.16922915
+2020,social_support,Mean,1.155606681627451
+2020,social_support,Median,1.203986526
+2020,social_support,Maximum,1.547567487
+2020,social_support,Minimum,0.0
+2020,social_support,1st Quartile (25%),0.986717939
+2020,social_support,2nd Quartile (50%),1.203986526
+2020,social_support,3rd Quartile (75%),1.38713932
+2020,healthy,Mean,0.6928690722091504
+2020,healthy,Median,0.759818137
+2020,healthy,Maximum,1.137814283
+2020,healthy,Minimum,0.0
+2020,healthy,1st Quartile (25%),0.495443076
+2020,healthy,2nd Quartile (50%),0.759818137
+2020,healthy,3rd Quartile (75%),0.867248535
+2020,freedom,Mean,0.463583032490196
+2020,freedom,Median,0.483292729
+2020,freedom,Maximum,0.693270326
+2020,freedom,Minimum,0.0
+2020,freedom,1st Quartile (25%),0.381456882
+2020,freedom,2nd Quartile (50%),0.483292729
+2020,freedom,3rd Quartile (75%),0.576664805
+2020,generosity,Mean,0.18937483726797386
+2020,generosity,Median,0.176745117
+2020,generosity,Maximum,0.569813728
+2020,generosity,Minimum,0.0
+2020,generosity,1st Quartile (25%),0.115006477
+2020,generosity,2nd Quartile (50%),0.176745117
+2020,generosity,3rd Quartile (75%),0.255509764
+2020,corruption,Mean,0.13071751432026144
+2020,corruption,Median,0.098435111
+2020,corruption,Maximum,0.533162236
+2020,corruption,Minimum,0.0
+2020,corruption,1st Quartile (25%),0.055804539
+2020,corruption,2nd Quartile (50%),0.098435111
+2020,corruption,3rd Quartile (75%),0.163064316
+2020,dystopia,Mean,1.9723167606405225
+2020,dystopia,Median,2.046271801
+2020,dystopia,Maximum,3.440809727
+2020,dystopia,Minimum,0.257240534
+2020,dystopia,1st Quartile (25%),1.629928112
+2020,dystopia,2nd Quartile (50%),2.046271801
+2020,dystopia,3rd Quartile (75%),2.35026741
+2021,year,Mean,2021.0
+2021,year,Median,2021.0
+2021,year,Maximum,2021.0
+2021,year,Minimum,2021.0
+2021,year,1st Quartile (25%),2021.0
+2021,year,2nd Quartile (50%),2021.0
+2021,year,3rd Quartile (75%),2021.0
+2021,rank,Mean,75.0
+2021,rank,Median,75.0
+2021,rank,Maximum,149.0
+2021,rank,Minimum,1.0
+2021,rank,1st Quartile (25%),38.0
+2021,rank,2nd Quartile (50%),75.0
+2021,rank,3rd Quartile (75%),112.0
+2021,happiness,Mean,5.532838926174497
+2021,happiness,Median,5.534
+2021,happiness,Maximum,7.842
+2021,happiness,Minimum,2.523
+2021,happiness,1st Quartile (25%),4.852
+2021,happiness,2nd Quartile (50%),5.534
+2021,happiness,3rd Quartile (75%),6.255
+2021,gdp,Mean,0.9771610738255032
+2021,gdp,Median,1.025
+2021,gdp,Maximum,1.751
+2021,gdp,Minimum,0.0
+2021,gdp,1st Quartile (25%),0.666
+2021,gdp,2nd Quartile (50%),1.025
+2021,gdp,3rd Quartile (75%),1.323
+2021,social_support,Mean,0.7933154362416108
+2021,social_support,Median,0.832
+2021,social_support,Maximum,1.172
+2021,social_support,Minimum,0.0
+2021,social_support,1st Quartile (25%),0.647
+2021,social_support,2nd Quartile (50%),0.832
+2021,social_support,3rd Quartile (75%),0.996
+2021,healthy,Mean,0.5201610738255034
+2021,healthy,Median,0.571
+2021,healthy,Maximum,0.897
+2021,healthy,Minimum,0.0
+2021,healthy,1st Quartile (25%),0.357
+2021,healthy,2nd Quartile (50%),0.571
+2021,healthy,3rd Quartile (75%),0.665
+2021,freedom,Mean,0.4987114093959732
+2021,freedom,Median,0.514
+2021,freedom,Maximum,0.716
+2021,freedom,Minimum,0.0
+2021,freedom,1st Quartile (25%),0.409
+2021,freedom,2nd Quartile (50%),0.514
+2021,freedom,3rd Quartile (75%),0.603
+2021,generosity,Mean,0.17804697986577178
+2021,generosity,Median,0.164
+2021,generosity,Maximum,0.541
+2021,generosity,Minimum,0.0
+2021,generosity,1st Quartile (25%),0.105
+2021,generosity,2nd Quartile (50%),0.164
+2021,generosity,3rd Quartile (75%),0.239
+2021,corruption,Mean,0.13514093959731543
+2021,corruption,Median,0.101
+2021,corruption,Maximum,0.547
+2021,corruption,Minimum,0.0
+2021,corruption,1st Quartile (25%),0.06
+2021,corruption,2nd Quartile (50%),0.101
+2021,corruption,3rd Quartile (75%),0.174
+2021,dystopia,Mean,2.430328859060403
+2021,dystopia,Median,2.509
+2021,dystopia,Maximum,3.482
+2021,dystopia,Minimum,0.648
+2021,dystopia,1st Quartile (25%),2.138
+2021,dystopia,2nd Quartile (50%),2.509
+2021,dystopia,3rd Quartile (75%),2.794
+2022,year,Mean,2022.0
+2022,year,Median,2022.0
+2022,year,Maximum,2022.0
+2022,year,Minimum,2022.0
+2022,year,1st Quartile (25%),2022.0
+2022,year,2nd Quartile (50%),2022.0
+2022,year,3rd Quartile (75%),2022.0
+2022,rank,Mean,73.5
+2022,rank,Median,73.5
+2022,rank,Maximum,146.0
+2022,rank,Minimum,1.0
+2022,rank,1st Quartile (25%),37.25
+2022,rank,2nd Quartile (50%),73.5
+2022,rank,3rd Quartile (75%),109.75
+2022,happiness,Mean,5.553575342465753
+2022,happiness,Median,5.5685
+2022,happiness,Maximum,7.821
+2022,happiness,Minimum,2.404
+2022,happiness,1st Quartile (25%),4.88875
+2022,happiness,2nd Quartile (50%),5.5685
+2022,happiness,3rd Quartile (75%),6.305
+2022,gdp,Mean,1.410445205479452
+2022,gdp,Median,1.4455
+2022,gdp,Maximum,2.209
+2022,gdp,Minimum,0.0
+2022,gdp,1st Quartile (25%),1.0955000000000001
+2022,gdp,2nd Quartile (50%),1.4455
+2022,gdp,3rd Quartile (75%),1.7847499999999998
+2022,social_support,Mean,0.9058630136986301
+2022,social_support,Median,0.9575
+2022,social_support,Maximum,1.32
+2022,social_support,Minimum,0.0
+2022,social_support,1st Quartile (25%),0.732
+2022,social_support,2nd Quartile (50%),0.9575
+2022,social_support,3rd Quartile (75%),1.1142500000000002
+2022,healthy,Mean,0.5861712328767124
+2022,healthy,Median,0.6214999999999999
+2022,healthy,Maximum,0.942
+2022,healthy,Minimum,0.0
+2022,healthy,1st Quartile (25%),0.46325000000000005
+2022,healthy,2nd Quartile (50%),0.6214999999999999
+2022,healthy,3rd Quartile (75%),0.71975
+2022,freedom,Mean,0.5172260273972603
+2022,freedom,Median,0.5435000000000001
+2022,freedom,Maximum,0.74
+2022,freedom,Minimum,0.0
+2022,freedom,1st Quartile (25%),0.4405
+2022,freedom,2nd Quartile (50%),0.5435000000000001
+2022,freedom,3rd Quartile (75%),0.626
+2022,generosity,Mean,0.14737671232876715
+2022,generosity,Median,0.1325
+2022,generosity,Maximum,0.468
+2022,generosity,Minimum,0.0
+2022,generosity,1st Quartile (25%),0.089
+2022,generosity,2nd Quartile (50%),0.1325
+2022,generosity,3rd Quartile (75%),0.19775
+2022,corruption,Mean,0.1547808219178082
+2022,corruption,Median,0.1195
+2022,corruption,Maximum,0.587
+2022,corruption,Minimum,0.0
+2022,corruption,1st Quartile (25%),0.06825
+2022,corruption,2nd Quartile (50%),0.1195
+2022,corruption,3rd Quartile (75%),0.1985
+2022,dystopia,Mean,1.8318082191780822
+2022,dystopia,Median,1.8944999999999999
+2022,dystopia,Maximum,2.844
+2022,dystopia,Minimum,0.187
+2022,dystopia,1st Quartile (25%),1.55525
+2022,dystopia,2nd Quartile (50%),1.8944999999999999
+2022,dystopia,3rd Quartile (75%),2.153
+Total,year,Mean,2019.9670619235837
+Total,year,Median,2020.0
+Total,year,Maximum,2022.0
+Total,year,Minimum,2018.0
+Total,year,1st Quartile (25%),2019.0
+Total,year,2nd Quartile (50%),2020.0
+Total,year,3rd Quartile (75%),2021.0
+Total,rank,Mean,76.6258234519104
+Total,rank,Median,77.0
+Total,rank,Maximum,156.0
+Total,rank,Minimum,1.0
+Total,rank,1st Quartile (25%),39.0
+Total,rank,2nd Quartile (50%),77.0
+Total,rank,3rd Quartile (75%),114.5
+Total,happiness,Mean,5.465081289876153
+Total,happiness,Median,5.477
+Total,happiness,Maximum,7.842
+Total,happiness,Minimum,2.404
+Total,happiness,1st Quartile (25%),4.6395
+Total,happiness,2nd Quartile (50%),5.477
+Total,happiness,3rd Quartile (75%),6.223
+Total,gdp,Mean,1.0047654598669302
+Total,gdp,Median,1.024
+Total,gdp,Maximum,2.209
+Total,gdp,Minimum,0.0
+Total,gdp,1st Quartile (25%),0.692
+Total,gdp,2nd Quartile (50%),1.024
+Total,gdp,3rd Quartile (75%),1.3226176134999998
+Total,social_support,Mean,1.0597257210658761
+Total,social_support,Median,1.095
+Total,social_support,Maximum,1.644
+Total,social_support,Minimum,0.0
+Total,social_support,1st Quartile (25%),0.845
+Total,social_support,2nd Quartile (50%),1.095
+Total,social_support,3rd Quartile (75%),1.3221582404999999
+Total,healthy,Mean,0.6254913940026351
+Total,healthy,Median,0.653
+Total,healthy,Maximum,1.141
+Total,healthy,Minimum,0.0
+Total,healthy,1st Quartile (25%),0.4555
+Total,healthy,2nd Quartile (50%),0.653
+Total,healthy,3rd Quartile (75%),0.8
+Total,freedom,Mean,0.46457339126613967
+Total,freedom,Median,0.488
+Total,freedom,Maximum,0.74
+Total,freedom,Minimum,0.0
+Total,freedom,1st Quartile (25%),0.378537904
+Total,freedom,2nd Quartile (50%),0.488
+Total,freedom,3rd Quartile (75%),0.5805
+Total,generosity,Mean,0.17642602121475628
+Total,generosity,Median,0.166
+Total,generosity,Maximum,0.598
+Total,generosity,Minimum,0.0
+Total,generosity,1st Quartile (25%),0.105
+Total,generosity,2nd Quartile (50%),0.166
+Total,generosity,3rd Quartile (75%),0.2375362415
+Total,corruption,Mean,0.128257944256917
+Total,corruption,Median,0.094
+Total,corruption,Maximum,0.587
+Total,corruption,Minimum,0.0
+Total,corruption,1st Quartile (25%),0.054356882499999995
+Total,corruption,2nd Quartile (50%),0.094
+Total,corruption,3rd Quartile (75%),0.1607706255
+Total,dystopia,Mean,2.005864906953887
+Total,dystopia,Median,2.042
+Total,dystopia,Maximum,3.482
+Total,dystopia,Minimum,0.1839999999999997
+Total,dystopia,1st Quartile (25%),1.6569999999999998
+Total,dystopia,2nd Quartile (50%),2.042
+Total,dystopia,3rd Quartile (75%),2.3960000000000004
