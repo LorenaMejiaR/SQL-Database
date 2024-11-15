@@ -36,8 +36,8 @@ Which factor is more important?
     - `pandas` for data manipulation.
     - `numpy` for numerical operations.
     - `matplotlib`, `plotly` and `seaborn` for data visualization.
-    - `scipy` for statistical analysis.
-    - `pycountry` for working with country data, including country codes, names, and subdivisions.
+    - `statsmodels.api` for statistical analysis. 
+      
 - **Draw SQL**: A porwerful tool to create the Entity-Relational-Model (ERM).
 - **SQL**: A porwerful tool to create the database, loading clean data and summarization. 
 
