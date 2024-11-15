@@ -38,6 +38,11 @@ This project leverages 5 datasets from the Cantril Ladder to gather relevant dat
 4. **World Happiness Report 2021** 
 5. **World Happiness Report 2022** 
 
+### Presentation Link
+
+Made using Canva and present in the following link https://www.canva.com/design/DAGWX1kecpk/6oz2QTBQekEp59OIM9uAmw/edit?utm_content=DAGWX1kecpk&utm_campaign=designshare&utm_medium=link2&utm_source=sharebutton
+
+
 ### The Team
 
 - Alvaro
